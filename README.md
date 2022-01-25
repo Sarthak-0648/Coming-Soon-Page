@@ -5,7 +5,7 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <title>ok</title>
+        <title>Coming Soon</title>
         <link href="style.css" rel="stylesheet" type="text/css">
       </head>
     
